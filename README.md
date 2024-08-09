@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**DaviNata10/DaviNata10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-Meu nome é Davi
+-Estou esutandando no Alura
+-Estou me desenvolvendo na linguagem Javascript
+-Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo📫
+
+00001085124757SP@al.educacao.sp.gov.br
+
+![] (![naruto](https://github.com/user-attachments/assets/da167f02-4594-42f8-9a98-076de1cd8dc5))
